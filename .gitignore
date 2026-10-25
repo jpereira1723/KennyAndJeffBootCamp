@@ -1,0 +1,10 @@
+Content/Characters/GenericObjects/
+Intermediate/
+Saved/
+DerivedDataCache/
+Binaries/
+Build/
+*.xcworkspace
+*.large_extension
+
+
